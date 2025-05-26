@@ -3,4 +3,4 @@ secrate/
 # Ignore the note file
 note.txt
 # Ignore log files
-.log
+*.log
